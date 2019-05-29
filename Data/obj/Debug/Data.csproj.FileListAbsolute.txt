@@ -1,0 +1,10 @@
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\Data.dll.config
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\Data.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\Data.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\EntityFramework.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\EntityFramework.xml
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\obj\Debug\Data.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\BackServicios\Data\obj\Debug\Data.pdb
